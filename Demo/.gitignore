@@ -1,0 +1,5 @@
+build
+mx.scratch
+.settings
+generate_report.ps1
+generate_report_bom.ps1
